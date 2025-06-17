@@ -3,3 +3,4 @@ dist/
 test.py
 *.xlsx
 *.spec
+__pycache__/
